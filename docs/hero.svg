@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="InvoiceFlow: a clearer view of money owed">
+<rect width="1200" height="360" rx="24" fill="#102c42"/>
+<circle cx="1080" cy="60" r="220" fill="#163c50"/>
+<circle cx="1150" cy="350" r="220" fill="#194958"/>
+<rect x="55" y="47" width="215" height="28" rx="14" fill="#225462"/>
+<text x="74" y="66" font-family="Arial,sans-serif" font-size="12" fill="#a5f3dc" letter-spacing="2">SMALL BUSINESS TOOLS</text>
+<text x="55" y="150" font-family="Arial,sans-serif" font-size="66" font-weight="700" fill="white" letter-spacing="-2">InvoiceFlow</text>
+<text x="58" y="194" font-family="Arial,sans-serif" font-size="24" fill="#b6d3e0">A clearer view of money owed.</text>
+<text x="58" y="265" font-family="Arial,sans-serif" font-size="17" fill="#d6e8ef">Record receipts. Track balances. Organise follow-ups.</text>
+<text x="58" y="310" font-family="Arial,sans-serif" font-size="13" fill="#7ea9bc">PYTHON  /  STREAMLIT  /  SQLITE</text>
+<rect x="755" y="66" width="360" height="234" rx="18" fill="#f3f8fa"/>
+<text x="783" y="105" font-family="Arial,sans-serif" font-size="13" fill="#567182" letter-spacing="1">ONE CONNECTED WORKFLOW</text>
+<rect x="781" y="127" width="308" height="40" rx="8" fill="#e0f2ed"/>
+<text x="800" y="153" font-family="Arial,sans-serif" font-size="16" fill="#145f51">01   Invoice and payment ledger</text>
+<rect x="781" y="180" width="308" height="40" rx="8" fill="#e2ecf5"/>
+<text x="800" y="206" font-family="Arial,sans-serif" font-size="16" fill="#294c69">02   Ageing and balance reports</text>
+<rect x="781" y="233" width="308" height="40" rx="8" fill="#f7ead7"/>
+<text x="800" y="259" font-family="Arial,sans-serif" font-size="16" fill="#805b24">03   Customer follow-up worklist</text>
+</svg>
